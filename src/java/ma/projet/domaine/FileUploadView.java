@@ -13,7 +13,6 @@ import java.nio.file.Paths;
 
 /**
  *
- * @author Asmaa
  */
 import org.primefaces.event.FileUploadEvent;
 import org.primefaces.model.UploadedFile;
